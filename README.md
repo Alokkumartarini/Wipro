@@ -1,7 +1,3 @@
-# Wipro
-Wipro Training Program
-
-Alok Kumar Tarini
 <!doctype html>
 <html lang="en">
   <head>
